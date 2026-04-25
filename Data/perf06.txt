@@ -1,0 +1,23 @@
+Midwest Open Racing Fleet 2023                                         19-Jun-23
+
+Race:    2023 Performace #6 Marano Rega     Series: Perf  (06)   Date: 17-Jun-23
+Course:  SA7-S3      Buoys: P               Distance: 4.36
+RC Boat:                                    Wind: 6-8 kt E       Seas: 0 ft
+
+Sections & Start Times:
+J9: 13:15:00     S4: 13:25:00     S5: 13:25:00     S6: 13:20:00     S7: 13:20:00
+
+Sx  F  S Sail# Boat Name       Rtg   Finish   Corr Boat Type     Owner
+
+J9  1  1 30007 Tempest         132 14:31:10  66:34 Frers 30      Hank Kalmus    
+J9  2  2 42521 Sea Phoenix      78 14:32:13  71:33 Thomas 35 FR  G Knappenberger
+J9  3  3 30427 Starship        168 14:46:03  78:51 Cal 9.2       Keith Mohill   
+J9  4  4   271 Yukon            87 14:53:47  92:28 J 105         Ralph Krauss   
+
+S4  1  1 50638 Esprit d'Ecosse  87 14:32:36  61:17 J 105         R&J McLean     
+S4  2  2 50659 Mazal Tov        48 14:31:24  62:55 J 120         Arne Fliflet   
+S4  4  3 42234 Serenity         78 14:42:32  71:52 First 42      Arnold Hirsch  
+
+S6  3  1 32121 Fastnet          99 14:33:58  66:46 Baltic 38 DP  Tim Herboth    
+S6  5  2    27 Touring Machine 180 14:53:22  80:17 Catalina 275  Todd Gayley    
+

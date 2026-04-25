@@ -1,0 +1,26 @@
+Midwest Open Racing Fleet 2023                                         21-Aug-23
+
+Race:    2023 Beer Race #1                  Series: Beer  (01)   Date: 17-May-23
+Course:  BEERS_1     Buoys: P               Distance: 4.55
+RC Boat:                                    Wind: 12-15 kt N     Seas: 2-4 ft
+
+Sections & Start Times:
+B1: 19:15:00     B2: 19:05:00     B3: 19:00:00     B4: 18:55:00     B7: 19:10:00
+B9: 19:15:00     J1: 18:50:00     N1: 18:45:00     S3: 19:00:00     S4: 18:55:00
+
+Sx  F  S Sail# Boat Name       Rtg   Finish   Corr Boat Type     Owner
+
+B3  1  1 50638 Esprit d'Ecosse  87 19:50:18  43:42 J 105         #R&J McLean    
+
+B7  2  1   267 Venteux          75 20:00:34  44:53 Beneteau 36.7 #J Van Norman  
+B7  3  2 52051 Free Radical     75 20:00:37  44:56 Beneteau 36.7 #Bob Nelson    
+B7  8  5 45367 Gaucho           75 DNF      248:18 Beneteau 36.7 #M&D Bouchaert 
+B7  8  5   666 dnf               0 DNF      253:59                              
+
+B2  4  1    33 Handsome Pete    84 19:56:42  45:20 Beneteau 10R  #David Baker   
+B2  5  2 42234 Serenity         78 20:02:30  51:35 Ben First 42  #VinTrowbridge 
+
+S3  1  1 54951 Tenacity        105 19:54:52  46:54 Olson 34      #Peter Cooper  
+
+J1  1  1   271 Yukon            87 19:54:04  57:28 J 105         #Ralph Krauss  
+

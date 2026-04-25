@@ -1,0 +1,25 @@
+Midwest Open Racing Fleet 2023                                         21-Aug-23
+
+Race:    2023 Competition #5                Series: Comp  (05)   Date: 20-Aug-23
+Course:  SA7-T4      Buoys: P               Distance: 1.92
+RC Boat: 50659  Mazal Tov                   Wind: 4 - 0 kts      Seas: 1 ft
+
+Sections & Start Times:
+J9: 11:10:00     S4: 11:20:00     S5: 11:20:00     S6: 11:15:00     S7: 11:15:00
+
+Sx  F  S Sail# Boat Name       Rtg   Finish   Corr Boat Type     Owner
+
+J9  1  1 42521 Sea Phoenix      78 12:57:40 105:10 Thomas 35 FR  G Knappenberger
+J9  2  2   271 Yukon            87 13:05:04 112:17 J 105         Ralph Krauss   
+J9  3  3 30427 Starship        168 13:35:14 139:51 Cal 9.2       Keith Mohill   
+
+S4  1  1 45367 Gaucho           75 13:07:18 104:54 Beneteau 36.7 M&D Bouchaert  
+S4  2  2 50638 Esprit d'Ecosse  87 13:19:00 116:13 J 105         R&J McLean     
+S4  9  5 42234 Serenity         78 DNF      721:29 First 42      Arnold Hirsch  
+S4  9  5   666 dnf               0 DNF      723:59                              
+
+S6  3  1 54951 Tenacity        105 13:21:53 123:31 Olson 34      Peter Cooper   
+S6  4  2    27 Touring Machine 180 13:27:41 126:55 Catalina 275  Todd Gayley    
+S6  5  3 30007 Tempest         132 13:26:33 127:20 Frers 30      Hank Kalmus    
+S6  6  4 32121 Fastnet          99 13:33:36 135:26 Baltic 38 DP  Tim Herboth    
+

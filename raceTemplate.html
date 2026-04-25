@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="eng-US">
+<! Copyright 2024 Midwest Open Racing Fleet MORF>
+ <head>
+  <title>%title</title>
+ <body>
+ %title
+ <br><br>
+    <table width=100%>
+        <tr> <td>Race: %Race</td> <td>Series: %Series</td> <td>Date: %Date</td> </tr>
+        <tr> <td>Course: %Course</td> <td></td> <td>Distance: %Distance</td> </tr>
+        <tr> <td>RC Boat: %RCBoat</td> <td>Wind: %Wind</td> <td>Seas %Seas</td> </tr>
+    </table>
+    
+    <br><br>
+    Sections and start times:
+    <table width=100%>
+        <tr>%Starts</tr>
+    </table>
+    
+    <br><br>
+    <table width=100%>
+        <tr> 
+            <th>Sx</th> <th>F</th> <th>S</th> <th align=right>sail#</th> <th align=left>Boat Name</th> <th align=right>Rtg</th> <th align=right>Finish</th> <th align=right>Corr</th>   <th align=left>Boat Type</th> <th align=left>Owner</th>
+        <tr>
+        %Boats
+    </table>
+ </body>
+</html>

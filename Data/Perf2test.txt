@@ -1,0 +1,11 @@
+J9 1 1 30007 Tempest 132.0 2023-05-20 12:59:20 95:41 Frers 30 Hank Kalmus
+J9 2 2 271 Yukon 87.0 2023-05-20 13:16:15 118:57 J 105 Ralph Krauss
+ 
+S4 2 1 50638 Esprit d'Ecosse 87.0 2023-05-20 12:49:53 82:35 J 105 R&J McLean
+S4 3 2 45367 Gaucho 75.0 2023-05-20 12:49:27 83:51 Beneteau 36.7 M&D Bouchaert
+S4 6 3 42234 Serenity 78.0 2023-05-20 13:16:12 110:11 First 42 Arnold Hirsch
+ 
+S6 4 2 54951 Tenacity 105.0 2023-05-20 12:53:54 89:04 Olson 34 Peter Cooper
+S6 5 3 27 Touring Machine 180.0 2023-05-20 13:20:57 105:31 Catalina 275 Todd Gayley
+S6 8 5 23994 Planxty 138.0 DSQ DSQ J 30 K&D Bartley
+ 

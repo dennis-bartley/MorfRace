@@ -1,0 +1,19 @@
+Midwest Open Racing Fleet 2022                                         13-May-23
+
+Race:    2023 Beercan Tune-up ABANDONED     Series: Tune  (01)   Date: 10-May-23
+Course:  Buoys: P                           Distance: 10.00
+RC Boat:                                    Wind: none           Seas: 1 ft
+
+Sections & Start Times:
+J9: 11:05:00     S0: 18:55:00     S1: 11:25:00     S2: 12:25:00     S3: 19:05:00
+S4: 11:15:00     S5: 11:15:00     S6: 11:10:00     S7: 11:10:00     S8: 19:00:00
+
+Sx  F  S Sail# Boat Name       Rtg   Finish   Corr Boat Type     Owner
+
+S4  5  4 50638 Esprit d'Ecosse  87      DNF    DNF J 105         R&J McLean     
+S4  5  4 45367 Gaucho           75      DNF    DNF Beneteau 36.7 M&D Bouchaert  
+S4  5  4    33 Handsome Pete    84      DNF    DNF Beneteau 10R  David Baker    
+S4  5  4 42234 Serenity         78      DNF    DNF First 42      Arnold Hirsch  
+
+S6  5  1 54951 Tenacity        105      DNF    DNF Olson 34      Peter Cooper   
+
