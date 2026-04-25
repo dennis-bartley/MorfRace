@@ -1,13 +1,15 @@
 from tkinter import messagebox
 from Validator import Validator
 from MorfRace import alphabetSoup
+from pickle import TRUE
 
 class RaceValidator(Validator):
     def __init__(self, roster, controller):
         self.roster = roster
         self.controller = controller
         self.validators = {"Sailno": self.sailno, "Rating": self.rating, "Finish": self.finishValidator,
-                           "Corrected": self.correctedValidator, "Section": self.section}
+                           "Corrected": self.correctedValidator, "Section": self.section,
+                           "Boat Name": self.boatname}
         
     # Return True if the value is valid, otherwise an error message
     #
@@ -21,9 +23,10 @@ class RaceValidator(Validator):
     
     def sailno(self, value):
         # Make sure the sail number is in the roster
-        rc = False 
         if value in self.roster:
             rc = True 
+        else:
+            rc = "The Sail number %s is not in the roster" % value
             
         return rc
     
@@ -92,5 +95,26 @@ class RaceValidator(Validator):
             rc = "%s is not a valid Section. It should be in %s" % (value, sorted(sections))
             
         return rc
+    
+    def boatname(self, value):
+        boat = self.get_boat(value)
+        if boat:
+            rc = True    
+        else:
+            rc = "%s is not in the roser" % value 
+            
+        return rc       
+    
+    # Find a boat in the roster given the boat name
+    def get_boat(self, value):
+        sailnos = self.roster.keys()
+        for sailno in sailnos:
+            boat = self.roster[sailno]
+            if boat["boatname"] == value:
+                return boat
+            
+        # Couldn't find a boat by this name
+        return None
+            
 
     
